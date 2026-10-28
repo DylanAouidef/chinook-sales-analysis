@@ -43,13 +43,13 @@ The diagram below illustrates the relationships between the main tables used thr
 
 The SQL queries used throughout this analysis are available in the repository:
 
-- 01_top_artists.sql
-- 02_sales_agents.sql
-- 03_top_customers.sql
-- 04_revenue_by_country.sql
-- 05_top_genres.sql
-- 06_customers_by_country.sql
-- 07_average_spending.sql
+- [01_top_artists.sql](sql/01_top_artists.sql)
+- [02_sales_agents.sql](sql/02_sales_agents.sql)
+- [03_top_customers.sql](sql/03_top_customers.sql)
+- [04_revenue_by_country.sql](sql/04_revenue_by_country.sql)
+- [05_top_genres.sql](sql/05_top_genres.sql)
+- [06_customers_by_country.sql](sql/06_customers_by_country.sql)
+- [07_average_spending.sql](sql/07_average_spending.sql)
 
 ## 📊 Analysis Performed
 
