@@ -23,7 +23,7 @@ The Chinook database is organized around sales transactions, customers, artists,
 
 The diagram below illustrates the relationships between the main tables used throughout the analysis.
 
-<img width="897" height="878" alt="Database_Schema" src="https://github.com/user-attachments/assets/63f7bdcc-17cc-41e3-a010-4813f920acfc" />
+![Chinook database schema](docs/images/database_schema.png)
 
 
 ## Business Questions
@@ -127,7 +127,7 @@ Because revenue is highly concentrated, the company should invest in promoting m
 
 ## 📊 Dashboard
 
-<img width="635" alt="Dashboard_Chinook" src="https://github.com/user-attachments/assets/5e22afab-51a2-4e97-84b3-f13569206b48">
+![Chinook sales dashboard](docs/images/dashboard.png)
 
 An interactive dashboard was created in Looker Studio to visualize:
 
